@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav2305&show_icons=true&theme=dracula)
+
 <!--
 **pranav2305/pranav2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
